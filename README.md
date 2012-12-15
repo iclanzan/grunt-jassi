@@ -29,7 +29,7 @@ Specifies the path to a file containing the [JSON schema](http://json-schema.org
 
 ### Usage example
 
-In this example, running `grunt uglify:my_target` (or `grunt uglify` because `uglify` is a [multi task][]) will mangle and compress the input files using the default options.
+In this example, running `grunt jassi` will validate the `src/data.json` document against the `src/schema.json` schema.
 
 ```js
 // Project configuration.
