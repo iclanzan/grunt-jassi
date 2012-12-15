@@ -1,0 +1,24 @@
+{
+  "name": "End of the world",
+  "start": "2012-12-21",
+  "end": "2012-12-22",
+
+  "remarks": [
+    "Timezone unknown.",
+    "It is not clear if anyone will survive.",
+    "Make sure to stock up on food and water."
+  ],
+
+  "bunkers": {
+    "Est Head": {
+      "capacity": 56,
+      "durability": 78.5,
+      "address": "East Head road"
+    },
+    "Saint Nick": {
+      "capacity": 42,
+      "durability": 87,
+      "coordinates": [35.9532, 14.368029]
+    }
+  }
+}

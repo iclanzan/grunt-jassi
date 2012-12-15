@@ -1,0 +1,36 @@
+{
+  "name": "grunt-jassi",
+  "description": "Validate JSON documents with Jassi.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/iclanzan/grunt-jassi",
+  "author": "Sorin Iclanzan",
+  "keywords": [
+    "gruntplugin",
+    "grunt",
+    "Jassi",
+    "JSON",
+    "validator",
+    "schema"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iclanzan/grunt-jassi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iclanzan/grunt-jassi/issues"
+  },
+  "license": "https://github.com/iclanzan/grunt-jassi/blob/master/LICENSE",
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {
+    "jassi": "~0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  }
+}
